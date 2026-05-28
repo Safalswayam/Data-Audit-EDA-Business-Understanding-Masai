@@ -22,7 +22,7 @@ This module performs a full data audit and exploratory analysis of a D2C persona
 
 ```
 part1_eda/
-├── eda_audit.py              # Main EDA script (runs all analysis)
+├── eda_audit.ipynb              # Main EDA script (runs all analysis)
 ├── outputs/
 │   ├── data_quality_report.md   # Detailed data quality findings
 │   └── business_memo.md         # Executive memo for stakeholders
